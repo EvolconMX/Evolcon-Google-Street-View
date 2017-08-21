@@ -1,0 +1,16 @@
+{
+	"name": "Evolcon Google Street",
+	"description": "This extension displays two locations with Google Street View functionality and the fastest bike route between them.",
+	"type": "visualization",
+	"version": "1.0.0",
+	"icon": "map",
+	"author": "Karl W Pover",
+	"homepage": "http://evolcon.com",
+	"keywords": "qlik-sense, visualization, maps, google",
+	"preview": "com-evolcon-googleStreetView-preview.png",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
