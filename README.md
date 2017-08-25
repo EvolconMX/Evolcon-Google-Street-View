@@ -7,9 +7,21 @@ This is an extension based on the Google Maps API. It displays two locations wit
 ### Installation
 
 1. Download the latest version of Qlik Sense.
-2. Download the ZIP file.
+2. Download the extension ZIP file.
 3. Qlik Sense Desktop - Unzip and copy the new folder here: C:\Users\XXXXX\Documents\Qlik\Sense\Extensions\
-Qlik Sense Server - http://help.qlik.com/en-US/sense/June2017/Subsystems/ManagementConsole/Content/import-extensions.htm
+Qlik Sense Server - http://bit.ly/2voPCX2
+
+### Configuration
+
+
+### Author
+
+Karl W. Pover (@karlpover)
+
+Director - Evolcon
+
+www.evolcon.com
+
 
 ```
 Give examples
