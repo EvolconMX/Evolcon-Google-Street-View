@@ -5,7 +5,8 @@ This is an extension based on the Google Maps API. It displays two locations wit
 ![alt text](https://user-images.githubusercontent.com/30984355/29733767-6d13e388-89b4-11e7-9193-e37c6474ed85.png)
 
 
-## Installation
+Installation
+------------------------
 
 1. Download the latest version of Qlik Sense.
 2. Download the extension ZIP file.
