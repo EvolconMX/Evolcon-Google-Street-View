@@ -12,7 +12,7 @@ This is an extension based on the Google Maps API. It displays two locations wit
 Qlik Sense Server - http://bit.ly/2voPCX2
 
 ### Configuration
-This extension receives two
+This extension receives two dimensions: the origin and destination coordinates. In order to create these fields you can use the GeoMakePoint() function.
 
 ```
 Origin:
@@ -25,6 +25,10 @@ LOAD * INLINE [
 ];
 ```
 
+After creating the object, just add the two fields and configure the labels for each location panel. You can use plain text or Qlik formulas.
+
+![alt text](https://user-images.githubusercontent.com/30984355/29734694-609cb062-89b9-11e7-83bd-72b815ae3218.png)
+
 ### Author
 
 Karl W. Pover (@karlpover)
@@ -32,4 +36,5 @@ Karl W. Pover (@karlpover)
 Director - Evolcon
 
 www.evolcon.com
-![alt text](https://user-images.githubusercontent.com/30984355/29734694-609cb062-89b9-11e7-83bd-72b815ae3218.png)
+
+![alt text](https://user-images.githubusercontent.com/30984355/29734838-2993985a-89ba-11e7-8967-67b05472a57c.png)
