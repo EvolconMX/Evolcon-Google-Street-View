@@ -1,3 +1,3 @@
-# Evolcon-Google-Street-View
+# Evolcon Google Street View
 
-Coming soon.
+This is an extension based on the Google Street Maps API. It displays two locations and the fastest bike route between them.
