@@ -14,7 +14,9 @@ Installation
 Qlik Sense Server - http://bit.ly/2voPCX2
 
 
-## Configuration
+
+Configuration
+------------------------
 This extension receives two dimensions: the origin and destination coordinates. In order to create these fields you can use the GeoMakePoint() function.
 
 ```
@@ -35,7 +37,9 @@ After creating the object, just add the two fields and configure the labels for 
 By the way, there's a QVF in the ZIP package with a practical example!
 
 
-## Author
+
+Author
+------------------------
 
 Karl W. Pover (@karlpover)
 
